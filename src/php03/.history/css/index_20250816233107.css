@@ -1,0 +1,19 @@
+.quiz_content{
+    margin: 0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+}
+
+.question{
+    margin: 0 auto;
+    padding: 10px 20px;
+    width: 550px;
+    border-radius: 3px;
+    background: #000;
+    text-align: center;
+}
+
+.question_text{
+    color: #fff;
+    text-align: left;
+}
